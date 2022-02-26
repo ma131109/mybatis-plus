@@ -28,7 +28,7 @@
             <scope>test</scope>
         </dependency>
     </dependencies>
-    <!--maven插件-->
+    <!--maven插件1-->
     <build>
         <plugins>
             <plugin>
